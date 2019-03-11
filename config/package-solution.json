@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "dev-ops-test-client-side-solution",
+    "id": "8023b744-21a6-4650-9419-9b9e83afaa4c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/dev-ops-test.sppkg"
+  }
+}
